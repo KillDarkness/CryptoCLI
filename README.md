@@ -1,4 +1,3 @@
-```markdown
 # Criptografia CLI em Java
 
 Este é um projeto simples, porém completo, que implementa um sistema de criptografia via terminal (CLI).  
